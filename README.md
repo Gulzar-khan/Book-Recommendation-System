@@ -93,13 +93,5 @@ Key points:
 
 6. Our overall top selling books are The Lovely Bones: A Novel, Wild Animus and The Da Vinci Code, The Red Tent (Bestselling Backlist). .
 
-Improvements:
-1. By using a marketing and advertising approach, we can reduce the age-gap.
-
-2. We can clearly see that we have a larger number of buyer within USA, therefore we can easily recommend books to them on the basis of location and use this starategy for our campaign.
-
-3. We nearly make 10 recommender system from which we can select Best according to our Business-needs.
-
-4. We can push those type of books to publish which are similar to our top-selling books and recommend them to our Users.
 
 

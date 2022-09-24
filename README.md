@@ -1,7 +1,7 @@
 # **BOOK RECOMMENDATION SYSTEM**
 
 - 📫 Find the related notebook directly- <a href="https://github.com/Gulzar-khan/Book-Recommendation-System/blob/main/Team_Book_Recommendation_System.ipynb" target="_blank">Here</a> 
-- 
+
 ## **📖Introduction:**
 There is a growing interest in recommender systems that suggest music, films, books, and other products and services to users based on examples of their likes and dislikes. A number of successful start-up companies like Tinder etc are also using this with big companies like Netflix, Facebook, Youtube etc,  Online book stores like Amazon and flipkart  have popular recommendation services, and many libraries have a long history of providing reader's advisory services. Such services are important since readers' preferences are often complex and not readily reduced to keywords or standard subject categories, but rather best illustrated by example.
 
